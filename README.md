@@ -1,8 +1,5 @@
 
 # <p align="center">Lucas Delagarde</p>
- 
-  
-Actuellement étudiant en 3ème année à l'Ecole Supérieure d'Ingénieurs en Génie Electrique (ESIGELEC) à Rouen
 
 ##  Compétences Informatique
 ----------
